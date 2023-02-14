@@ -41,7 +41,7 @@ public class Week06TicTacToeLab {
 	//				that integer (1-9) to choose the location.
 	//
 	//		- One way to display the game board would be as follows:
-	//				+---+---+---+		to		+---+---+---+		+---+---+---+		+---+---+---+
+	//				+---+---+---+	to		+---+---+---+		+---+---+---+		+---+---+---+
 	//				| 1 | 2 | 3 |	   find	    |---|---|---|		| | | | | | |		| \ |   | / |
 	//				+---+---+---+	   a win	+---+---+---+		+---+---+---+		+---+---+---+
 	//				| 4 | 5 | 6 |	-- look-->	|---|---|---|	&	| | | | | | |   & 	|   | X |   |
