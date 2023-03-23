@@ -10,11 +10,11 @@ public class Week01VariablesAndOperationsLab {
 
 	public static void main(String[] args) {
 
-		// 1. Create a variable to hold the quantity of 
-		//		available plane seats left on a flight		
-
+		// 1. Create a variable to hold the quantity of available plane seats left on a flight
+	       
 		
 		// 2. Create a variable to hold the cost of groceries at checkout
+		
 
 		
 		// 3. Create a variable to hold a person's middle initial
