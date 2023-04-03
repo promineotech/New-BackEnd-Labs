@@ -78,7 +78,7 @@ public class Week06TicTacToeLab {
 	//					b. Another option for the gameBoard would be a 2d array -- This option might be
 	//						is a bit more challenging!  
 	//
-	//						For example:  String[] gameBoard = new String[3][3];
+	//						For example:  String[][] gameBoard = new String[3][3];
 	//					
 	//							i. Just remember that arrays are 0 based, so to access the grid, 
 	//							the index would go from 0-2 in two directions.  
