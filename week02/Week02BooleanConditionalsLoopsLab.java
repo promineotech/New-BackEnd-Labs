@@ -16,44 +16,62 @@ public class Week02BooleanConditionalsLoopsLab {
 		
 		// 1. Variable Declaration:
 		//		a. Create a variable named age and assign it a value of 14
-
+                System.out.println("\nQuestion 1:");
+		int age = 14;
 		
 		
 		// 2. Print a Boolean Expression:
 		//		a. Print the boolean expression age >= 16 to the console and note the results.
 		//		a. Change the value of age to 18 and print again.
+		System.out.println("nQuestion 2:");
+		System.out.println(age >= 16);
+		age = 18;
+		System.out.println(age >= 16;
 
 
-		
 		// 3. Can you drive?
 		//		a. Using a conditional, print one of the following:
 		//				i. "You can drive" if age is greater than or equal to 16
 		//				ii. "You cannot drive" otherwise
 		//
 		//		a. Change the value of age and rerun to see the result
+		system.out.println("nQuestion 3:");
+		if (age >= 16)
+			System.out.println("You can drive");
+	       }else }
+                 system.out.println("You cannot drive");
 	
 
-		
 		// 4. Update Solution to Question 3 as follows:
 		//		a. Add a new variable called hasLicense before the conditional.
 		//		b. Change the boolean expression in the conditional to additionally 
 		//				include the need for hasLicense to be true.
 		//		c. Try changing the values of age and hasLicense and note the different results.
 
-		
-		
-		// 5. Milk?
+                 System.out.println("\nQuestion 4:");
+                 boolean hasLicense = false;
+
+                if (age >= 16 && hasLicense) {
+			System.out.println("You can drive");
+		} else {
+			System.out.println("You cannot drive");
+
+
+                 // 5. Milk?
 		//		a. Create two new variables - costOfMilk and thirstLevel
 		//		b. Create a new conditional that prints "Milk Please" if costOfMilk is less than 2.50 
 		//				or if thirstLevel is greater than 6 and prints "No Thanks" otherwise.
 		//		c. Change the values and note the different results.
+		System.out.println("\nQuestion 5;");
+		double costOFMilk = 3.15;
+		int thirstLevel = 7;
 
 	
 		
 		// 6. Cookie Distribution: 
 		//			Note:  You will evenly distribute all of the cookies to the children 
 		//					and as the adult you get to keep the remaining cookies for yourself.
-		//
+		//just 
 		//		a. Create two variables called numberOfCookies and numberOfChildren.
 		//		b. Initialize the two variables to integer values.
 		//		b. Use a conditional to print the following based on the following conditions:
